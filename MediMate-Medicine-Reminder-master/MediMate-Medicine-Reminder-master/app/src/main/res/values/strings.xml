@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MediMate</string>
+    <string name="medicine_icon">Medicine</string>
+    <string name="app_tagline">Your Medicine, On Time</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="register_message">Register New Account</string>
+
+</resources>

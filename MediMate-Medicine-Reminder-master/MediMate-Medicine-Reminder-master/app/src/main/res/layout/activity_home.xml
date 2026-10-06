@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="30dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="5dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_tagline"
+        android:textSize="16sp"
+        android:layout_marginBottom="40dp" />
+
+    <Button
+        android:id="@+id/addMedicineButton"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="ADD MEDICINE"
+        android:layout_marginBottom="15dp" />
+
+    <Button
+        android:id="@+id/myMedicinesButton"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="MY MEDICINES"
+        android:layout_marginBottom="15dp" />
+
+    <Button
+        android:id="@+id/profileButton"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="PROFILE"
+        android:layout_marginBottom="15dp" />
+
+    <Button
+        android:id="@+id/logoutButton"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="LOGOUT" />
+
+</LinearLayout>

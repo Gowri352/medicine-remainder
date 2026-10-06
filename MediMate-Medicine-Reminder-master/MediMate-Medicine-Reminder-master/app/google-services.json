@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524893110123",
+    "project_id": "medimate-bea5f",
+    "storage_bucket": "medimate-bea5f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524893110123:android:4bc0d0cfb4ef190e47d62e",
+        "android_client_info": {
+          "package_name": "com.example.medicinereminder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOs1EwXvc283pjYd1HYigcWDvA49QRxnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
